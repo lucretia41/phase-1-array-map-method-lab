@@ -27,3 +27,17 @@ const titleCased = () => {
 console.log(titleCased());
 
 
+// Some questions to consider:
+
+// - How can we "iterate" through individual words in a string?
+// - Can we execute an iteration inside an iteration? How?
+// - How can we capitalize just the first letter in a word?
+
+// A couple of hints:
+
+// - Break the task into smaller chunks: using the console or a REPL, start by
+//   figuring out how to modify one individual element in the `tutorials` array.
+//   Once you've got that working, then figure out how to update the array itself.
+// - Use Google!!
+
+
